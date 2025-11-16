@@ -88,6 +88,24 @@ http://localhost:5173
 
 ## screenshots
 
+#Login
+
+<img width="538" height="429" alt="image" src="https://github.com/user-attachments/assets/c086fbb4-93a6-467c-9675-67a6fa9ba790" />
+
+# Dashboard
+
+<img width="1291" height="601" alt="image" src="https://github.com/user-attachments/assets/3e8661fd-354b-47e2-b397-3b7cb018bdaf" />
+
+# Hotel rooms
+
+
+<img width="1217" height="599" alt="image" src="https://github.com/user-attachments/assets/5f4fce5c-fd34-43f4-bf6e-b49d83c691a0" />
+
+# My Bookings
+
+<img width="1064" height="388" alt="image" src="https://github.com/user-attachments/assets/613d1cb6-f10d-448d-9e98-039880eb29de" />
+
+
 
 ## 🌐 Demo
 
